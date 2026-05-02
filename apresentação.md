@@ -13,8 +13,13 @@ Inglês e espanhol básico
 ### objetivos ### 
 
 - <strong>Desenvolver programas com python
-- <strong>Tambem saber desenvolver com java
+
+- <strong>Tambem saber desenvolver com 
+
 - <strong>Saber HTML
+
+- <strong>Falar mais de 5 idiomas
+
 
 
 
